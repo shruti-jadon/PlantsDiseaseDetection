@@ -1,1 +1,1 @@
-# SugarCane Disease detection using Transfer Learning
+# SugarCane Disease detection in Low Data Regime
